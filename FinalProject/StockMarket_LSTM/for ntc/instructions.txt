@@ -1,0 +1,30 @@
+Open cmd
+conda activate base
+streamlit run main.py
+
+
+
+https://www.researchgate.net/publication/349012005/figure/fig2/AS:987376566419457@1612420326671/Flowchart-of-the-IPSO-LSTM-model-for-stock-index-forecasting.jpg
+
+https://editor.analyticsvidhya.com/uploads/16127Screenshot%202021-01-19%20at%2011.50.55%20PM.png
+
+https://i.stack.imgur.com/YW2bI.png
+
+https://th.bing.com/th/id/OIP.b5UT0XpYJ4zHqDOtgBCgpQHaEm?rs=1&pid=ImgDetMain
+
+To read for model train 
+
+https://www.geeksforgeeks.org/data-pre-processing-wit-sklearn-using-standard-and-minmax-scaler/
+https://www.geeksforgeeks.org/introduction-deep-learning/
+https://www.geeksforgeeks.org/introduction-deep-learning/
+https://www.analyticsvidhya.com/blog/2021/04/activation-functions-and-their-derivatives-a-quick-complete-guide/
+https://www.analyticsvidhya.com/blog/2022/01/the-complete-lstm-tutorial-with-implementation/
+
+https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/
+
+
+
+For web scraping
+https://towardsdatascience.com/in-10-minutes-web-scraping-with-beautiful-soup-and-selenium-for-data-professionals-8de169d36319
+
+https://www.codecademy.com/article/web-scrape-with-selenium-and-beautiful-soup
